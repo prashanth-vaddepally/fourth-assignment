@@ -1,0 +1,7 @@
+/* Write your CSS here */
+.teams-list {
+  display: flex;
+  flex-wrap: wrap;
+  text-align: center;
+  margin-left: 150px;
+}
